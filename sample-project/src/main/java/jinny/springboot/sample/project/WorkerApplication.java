@@ -11,7 +11,7 @@ public class WorkerApplication {
         SpringApplication application = new SpringApplication(WorkerApplication.class);
 
         System.out.println("run Application ..!!! ");
-        System.out.println("test.. ");
+        System.out.println("test.. 11111");
         application.run(args);
     }
 }
